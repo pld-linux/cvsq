@@ -5,13 +5,6 @@ Version:	0.4.1
 Release:	2
 License:	Public Domain
 Group:		Development/Version Control
-Group(cs):	Vıvojové prostøedky/Správ verzí
-Group(de):	Entwicklung/Versionkontrolle
-Group(es):	Desarrollo/Control de Versiones
-Group(fr):	Development/Contrôle de version
-Group(pl):	Programowanie/Zarz±dzanie wersjami
-Group(pt):	Desenvolvimento/Controlo de Versões
-Group(ru):	òÁÚÒÁÂÏÔËÁ/ëÏÎÔÒÏÌØ ×ÅÒÓÉÊ
 Source0:	http://www.volny.cz/v.slavik/lt/download/%{name}-%{version}.tar.gz
 URL:		http://www.volny.cz/v.slavik/lt/cvsq.html
 BuildArch:	noarch
