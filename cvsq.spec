@@ -2,7 +2,7 @@ Summary:	CVS queued
 Summary(pl):	Kolejka do CVS
 Name:		cvsq
 Version:	0.4.1
-Release:	1
+Release:	2
 License:	Public Domain
 Group:		Development/Version Control
 Group(de):	Entwicklung/Versionkontrolle
@@ -22,6 +22,8 @@ all requests in a queue and handles them later
 This way, you can mark several files for commit and upload them to the
 server later, when you're connected to the net.
 
+Try to install package "color", you will get colored cvsq output!
+
 %description -l pl
 cvsq oznacza kolejkowanie cvs-a i jest narzêdziem pozwalaj±cym
 programistom z wdzwanianym dostêpem do Internetu na w miarê
@@ -32,6 +34,8 @@ w kolejce dla pó¼niejszego przetworzenia.
 W ten sposób mo¿na przyk³adowo zaznaczyæ kilka plików do umieszczenia
 w repozytorium, a przes³aæ je dopiero po uzyskaniu po³±czenia z
 sieci±.
+
+Zainstaluj pakiet "color", komunikaty cvsq bêd± kolorowe!
 
 %prep
 %setup -q
