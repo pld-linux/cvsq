@@ -2,7 +2,7 @@ Summary:	CVS queued
 Summary(pl):	Kolejka do CVS
 Name:		cvsq
 Version:	0.4.3
-Release:	1
+Release:	2
 License:	Public Domain
 Group:		Development/Version Control
 Source0:	http://www.volny.cz/v.slavik/lt/download/%{name}-%{version}.tar.gz
