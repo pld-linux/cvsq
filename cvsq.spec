@@ -6,6 +6,7 @@ Release:	1
 License:	Public Domain
 Group:		Development/Version Control
 Source0:	http://www.volny.cz/v.slavik/lt/download/%{name}-%{version}.tar.gz
+# Source0-md5:	d6d600db7a98ede407e25204799fbd27
 URL:		http://www.volny.cz/v.slavik/lt/cvsq.html
 BuildArch:	noarch
 Requires:	cvs
