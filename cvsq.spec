@@ -1,8 +1,8 @@
 Summary:	CVS queued
 Summary(pl):	Kolejka do CVS
 Name:		cvsq
-Version:	0.4.1
-Release:	2
+Version:	0.4.2
+Release:	1
 License:	Public Domain
 Group:		Development/Version Control
 Source0:	http://www.volny.cz/v.slavik/lt/download/%{name}-%{version}.tar.gz
@@ -44,12 +44,10 @@ install -d $RPM_BUILD_ROOT%{_bindir}
 
 install %{name} $RPM_BUILD_ROOT%{_bindir}
 
-gzip -9nf AUTHORS ChangeLog README
-
 %clean
 rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
-%doc *.gz
+%doc AUTHORS ChangeLog README
 %attr(755,root,root) %{_bindir}/*
