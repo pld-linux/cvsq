@@ -3,11 +3,12 @@ Summary(pl):	Kolejka do CVS
 Name:		cvsq
 Version:	0.4.0
 Release:	1
-Copyright:	Free
+License:	Public Domain
 Group:		Development/Version Control
 Group(de):	Entwicklung/Versionkontrolle
 Group(pl):	Programowanie/Zarz±dzanie wersjami
-Source0:	%{name}-%{version}.tar.gz
+Source0:	http://www.volny.cz/v.slavik/lt/download/%{name}-%{version}.tar.gz
+URL:		http://www.volny.cz/v.slavik/lt/cvsq.html
 BuildArch:	noarch
 Requires:	cvs
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
