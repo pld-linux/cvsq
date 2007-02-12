@@ -1,5 +1,5 @@
 Summary:	CVS queued
-Summary(pl):	Kolejka do CVS
+Summary(pl.UTF-8):   Kolejka do CVS
 Name:		cvsq
 Version:	0.4.3
 Release:	2
@@ -23,18 +23,18 @@ server later, when you're connected to the net.
 
 Try to install package "color", you will get colored cvsq output!
 
-%description -l pl
-cvsq oznacza kolejkowanie cvs-a i jest narzêdziem pozwalaj±cym
-programistom z wdzwanianym dostêpem do Internetu na w miarê
-bezstresow± pracê z repozytorium. cvsq przyjmuje te same parametry co
-cvs, ale zamiast bezzw³ocznie reagowaæ, umieszcza wszystkie polecenia
-w kolejce dla pó¼niejszego przetworzenia.
+%description -l pl.UTF-8
+cvsq oznacza kolejkowanie cvs-a i jest narzÄ™dziem pozwalajÄ…cym
+programistom z wdzwanianym dostÄ™pem do Internetu na w miarÄ™
+bezstresowÄ… pracÄ™ z repozytorium. cvsq przyjmuje te same parametry co
+cvs, ale zamiast bezzwÅ‚ocznie reagowaÄ‡, umieszcza wszystkie polecenia
+w kolejce dla pÃ³Åºniejszego przetworzenia.
 
-W ten sposób mo¿na przyk³adowo zaznaczyæ kilka plików do umieszczenia
-w repozytorium, a przes³aæ je dopiero po uzyskaniu po³±czenia z
-sieci±.
+W ten sposÃ³b moÅ¼na przykÅ‚adowo zaznaczyÄ‡ kilka plikÃ³w do umieszczenia
+w repozytorium, a przesÅ‚aÄ‡ je dopiero po uzyskaniu poÅ‚Ä…czenia z
+sieciÄ….
 
-Zainstaluj pakiet "color", komunikaty cvsq bêd± kolorowe!
+Zainstaluj pakiet "color", komunikaty cvsq bÄ™dÄ… kolorowe!
 
 %prep
 %setup -q
