@@ -1,5 +1,5 @@
 Summary:	CVS queued
-Summary(pl.UTF-8):   Kolejka do CVS
+Summary(pl.UTF-8):	Kolejka do CVS
 Name:		cvsq
 Version:	0.4.3
 Release:	2
