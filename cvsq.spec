@@ -8,8 +8,8 @@ Group:		Development/Version Control
 Source0:	http://www.volny.cz/v.slavik/lt/download/%{name}-%{version}.tar.gz
 # Source0-md5:	10efc297780c1a5cdbdc0585afaa8a5e
 URL:		http://www.volny.cz/v.slavik/lt/cvsq.html
+Requires:	cvs-client
 BuildArch:	noarch
-Requires:	cvs
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
