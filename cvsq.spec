@@ -6,7 +6,7 @@ Release:	1
 License:	Public Domain
 Group:		Development/Version Control
 Source0:	http://dl.sourceforge.net/cvsq/%{name}-%{version}.tar.gz
-# Source0-md5:	10efc297780c1a5cdbdc0585afaa8a5e
+# Source0-md5:	facf35bb3f9dfd3d8e2877cdb1961175
 URL:		http://sourceforge.net/projects/cvsq
 Requires:	cvs-client
 BuildArch:	noarch
